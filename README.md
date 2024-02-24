@@ -1,6 +1,7 @@
 ![banner image with name "Dan Volosnikov" and links to LinkedIn profile](banner-image.jpg)
 
 [![Hyperlink to LinkedIn profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dan-volos/)
+[![Hyperlink to Codepen profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=codepen)](https://codepen.io/Volosnikov)
 <!--
 **lightofdavinci/lightofdavinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
