@@ -1,4 +1,4 @@
-### Hi there 👋
+![banner image with name "Dan Volosnikov" and links to LinkedIn profile](banner-image.jpeg)
 
 <!--
 **lightofdavinci/lightofdavinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
