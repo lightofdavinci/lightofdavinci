@@ -26,7 +26,7 @@ Hello, creating applications for me is an art. I am well-versed in various front
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l7nzuk3rggz6mw5twwqywvlyne&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 -->
-![](https://github.com/lightofdavinci/spotify.gif)
+![spotify song](spotify.gif)
 
 ### Certifications
 - Lambda School Full Stack Web Development
