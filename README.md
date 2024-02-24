@@ -6,9 +6,9 @@
 
 ## Professional Summary
 
-Hello, creating websites for me is an art. I am well-versed in various front-end frameworks and libraries, such as Vue, Svelte, and React, and have experience integrating them with back-end technologies Node.js, Java (SpringBoot) and SQL. I am committed to delivering high-quality work that exceeds client expectations.
+Hello, creating applications for me is an art. I am well-versed in various front-end frameworks and libraries, such as Vue, Svelte, and React, and have experience integrating them with back-end technologies Node.js, Java (SpringBoot) and SQL. I am committed to delivering high-quality work that exceeds client expectations.
 
-### Check out my website: [dan-volos.com](https://dan-volos.com)
+### Check out my website: [dan-volos.com](https://portroyal.onrender.com/)
 <!--
 **lightofdavinci/lightofdavinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
