@@ -22,6 +22,17 @@ Hello, creating applications for me is an art. I am well-versed in various front
 - :clap: I appreciate people with outstanding talents
 - :musical_keyboard: My musical preferences are post rock, drum and bass, folk and salsa
 
+### Certifications
+- Lambda School Full Stack Web Development
+- Meta’s Advanced React
+- Meta’s Principles of UX/UI Design
+- Python ZTM
+- Front End Masters
+- Treehouse
+- LaunchCode
+- FreeCodeCamp
+- Codecademy
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightofdavinci&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <i><b>Last Updated on</b></i>&nbsp;<!-- LAST-UPDATE:START -->
