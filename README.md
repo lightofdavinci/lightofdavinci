@@ -2,6 +2,13 @@
 
 [![Hyperlink to LinkedIn profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dan-volos/)
 [![Hyperlink to Codepen profile](https://img.shields.io/badge/codepen-333333?style=for-the-badge&logo=codepen)](https://codepen.io/Volosnikov)
+
+
+## Professional Summary
+
+Hello, creating websites for me is an art. I am well-versed in various front-end frameworks and libraries, such as Vue, Svelte, and React, and have experience integrating them with back-end technologies Node.js, Java (SpringBoot) and SQL. I am committed to delivering high-quality work that exceeds client expectations.
+
+### Check out my website: [dan-volos.com](https://dan-volos.com)
 <!--
 **lightofdavinci/lightofdavinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
