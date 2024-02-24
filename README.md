@@ -23,7 +23,7 @@ Hello, creating applications for me is an art. I am well-versed in various front
 - :musical_keyboard: My musical preferences are post rock, drum and bass, folk and salsa
 
 #### Now Playing:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l7nzuk3rggz6mw5twwqywvlyne&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l7nzuk3rggz6mw5twwqywvlyne&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### Certifications
 - Lambda School Full Stack Web Development
