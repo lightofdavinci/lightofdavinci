@@ -16,6 +16,11 @@ Hello, creating applications for me is an art. I am well-versed in various front
 ### About Me
 - :walking_man: I enjoy long-distance walking
 - :airplane: I love to travel and experience new cultures
+- :game_die: I like to play board games, especially chess
+- :man_cook: I prefer to cook my own food
+- :male_detective My favorite genre of films is art house or noir detective
+- :clap I appreciate people with outstanding talents
+- :musical_keyboard My musical preferences are post rock, drum and bass, folk and salsa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightofdavinci&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
